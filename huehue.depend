@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512985710 source:c:\users\marcin\desktop\huehue\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1512986013 source:c:\users\marcin\desktop\lab2\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
